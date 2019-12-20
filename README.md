@@ -1,2 +1,1 @@
-# projecte
-git learning repository 
+# PROJECTE README #
